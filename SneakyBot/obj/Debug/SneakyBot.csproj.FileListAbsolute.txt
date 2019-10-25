@@ -1,0 +1,10 @@
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/bin/Debug/SneakyBot.exe
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/bin/Debug/SneakyBot.pdb
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/obj/Debug/SneakyBot.csprojAssemblyReference.cache
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/obj/Debug/SneakyBot.csproj.CoreCompileInputs.cache
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/obj/Debug/SneakyBot.exe
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/obj/Debug/SneakyBot.pdb
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/bin/Debug/WebDriver.dll
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/bin/Debug/WebDriver.xml
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/obj/Debug/SneakyBot.csproj.CopyComplete
+/Users/Jammooly/RiderProjects/SneakyBot/SneakyBot/bin/Debug/Selenium.WebDriverBackedSelenium.dll
